@@ -56,6 +56,9 @@ Maintained by [@andreasasprou](https://github.com/andreasasprou). For daily cove
 | [KDA Firestarter AI Dance](https://kdafirestarterai.dev) | Independent unofficial AI: one photo → 13s solo dance video (Paid from $7.99; not affiliated with Riot Games or K/DA) | -- |
 | [A2O LITE NEON AI Dance](https://a2oliteai.org) | Independent AI: two photos → 15s neon duo dance with reference soundtrack (Paid from $7.99) | -- |
 | [dime dime baby ai](https://dimedimebabyai.dev) | Independent AI: one photo → ~5s 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99) | -- |
+| [PromptImage](https://promptimage.cloud) | Free AI image & video studio with a prompt library (signup credits, mu |
+| [TeslaWraps](https://teslawraps.design) | Browser Tesla Paint Shop wrap designer — core editing + PNG export fre |
+| [GrokVideo Studio](https://grokvideogenerator.dev) | Independent web app for text/image-to-video via Grok Imagine API (Free |
 
 ## Music & Audio
 
